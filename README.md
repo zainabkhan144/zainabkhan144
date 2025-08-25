@@ -11,12 +11,11 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
+• 💪🏻 I'm a Data Analyst,Problem Solver,Insight Enthusiast<br>
+• 🌱 I’m currently learning and building projects that bridge the gap between data and strategy. 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, PIAIC <br>
-• 🔥 Python Developer and Power BI Developer.<br>
-• 💸 LEVEL-0 SELLER of MuaazAsif on Fiverr.<br>
+• 📗 Data cleaning and transformation <br>
+• 📂 Exel.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
@@ -25,14 +24,9 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:zainabbkhan.787@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="MuaazAsif Ali - Email"></a>
-    <a href="www.linkedin.com/in/zainab-khan-00a7b4313" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
-    <a href="https://www.facebook.com/muaaz.asif.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="MuaazAsif Ali- Facebook"></a>
-    <a href="https://www.fiverr.com/muaazasif572" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Muaaz Asif-fiverr"></a>
-<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=PowerBi&logoColor=F0DB4F" alt="MuaazAsif Ali-Power Bi"></a>
-	<a href="https://muaazasif.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=F0DB4F" alt="MuaazAsif Ali-Portfolio"></a>
+    <a href="mailto:zainabbkhan.787@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Zainab Khan - Email"></a>
+    <a href="www.linkedin.com/in/zainab-khan-00a7b4313" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Zainab Khan-Linkedin"></a><br>
 	
-
 </div>
 
 </p>
