@@ -31,12 +31,6 @@
 
 </p>
 
-## Top Open Source -
-[![CLI ATM Project](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=cli-atm-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/cli-atm-project)
-[![CLI Guessing Number](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=cli-guessing-number&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/cli-guessing-number)
-[![CLI Simple Calculator](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=simple-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/simple-calculator)
-[![MuaazAsif Readme](https://github-readme-stats.vercel.app/api/pin/?username=muaazasif&repo=muaazasif&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/muaazasif/muaazasif)
-
 <p align="left">
   <a href="https://github.com/muaazasif?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
